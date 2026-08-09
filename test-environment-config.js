@@ -1,0 +1,12 @@
+const applicationName= "MyShop E-commerce";
+const applicationURL= "https://qa.myshop.com";
+let environment= "QA";
+let testerName= "Shivani";
+let ExecutionDate= "07-08-2026";
+let isAutomationEnabled= "Yes";
+console.log("App Name:" ,applicationName);
+console.log("App URL:" ,applicationURL);
+console.log("Environment:" ,environment);
+console.log("Tester Name:" ,testerName);
+console.log("Date of Execution:" ,ExecutionDate);
+console.log("Automation Enabled:" ,isAutomationEnabled);
